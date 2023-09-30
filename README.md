@@ -1,2 +1,2 @@
 # weitepi.github.io
-Weite's personal website.
+Hi! This is Weite's github website; see also sites.google.com/view/weitepi for my professional website.
